@@ -24,9 +24,13 @@ body, html {
 
 p {
 	font-size: 16px;
-	max-width: 100%;
 }
 
 a {
 	color: black;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
 }
