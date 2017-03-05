@@ -24,12 +24,9 @@ body, html {
 
 p {
 	font-size: 16px;
+	max-width: 100%;
 }
 
 a {
 	color: black;
-}
-
-IMG {
-	max-width: 100px;
 }
