@@ -34,3 +34,15 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+
+@media (max-width: 400px) {
+ BackgroundOrange {
+	background-color: #fafafa;
+	border: 5px solid #FD5F0B;
+	border-radius: 6px;
+	padding: 16px;
+	width: 100%;
+  	float: left;
+	box-sizing: border-box;
+	}
+}
