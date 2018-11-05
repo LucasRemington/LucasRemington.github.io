@@ -9,6 +9,11 @@ body, html {
 	padding: 16px;
 }
 
+.BackgroundWhite {
+	background-color: #aaaaaa;
+	padding: 16px;
+}
+
 .SetOrange {
 	background-color: #fafafa;
 	border: 5px solid #FD5F0B;
